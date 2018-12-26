@@ -14,6 +14,14 @@
       </ul>
     </section>
     <!-- Latest -->
+    <section class="latestBlogPosts">
+      <h2>Seneste innlegg</h2>
+      <div class="previewBlog">
+        <!-- Bilde -->
+        <h3>Hvorfor og hvordan migrere fra WordPress ?</h3>
+        <h5>Av: <nuxt-link to="forfatter">Aman Mender</nuxt-link></h5>
+      </div>
+    </section>
   </div>
 </template>
 
@@ -52,15 +60,35 @@ section {
       flex: 1;
       font-size: 1.4em;
       flex: 1 0 50%;
-      //margin-bottom: 20px;
-      margin-bottom: 40px;
+      margin: 20px 0;
     }
   }
-}
-section.whatSection {
-  background: #63a5be;
-}
-section.whySection {
-  background: #1da01d;
+  &.whatSection {
+    background: #63a5be;
+    //background: url('~assets/img/pattern_1.svg'), linear-gradient(#63a5be,#63a5be);
+    //background: linear-gradient(#63a5be,#63a5be);
+  }
+  &.whySection {
+    background: #1da01d;
+  }
+  &.latestBlogPosts {
+    h2 {
+      color: #333;
+    }
+    div.previewBlog {
+      text-align: left;
+      color: #333;
+      h3 {
+        font-weight: normal;
+      }
+      h5 {
+        font-weight: normal;
+        a {
+          text-decoration: none;
+          color: #333;
+        }
+      }
+    }
+  }
 }
 </style>
