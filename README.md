@@ -1,6 +1,12 @@
-# jamstack-norge
+# Jamstack.no
 
-> Blog for jamstack i Norge
+> Bloggen til Jamstack.no og hjemmesiden til Jamstack Meetup-en
+
+## Feature list
+
+## Bidrag
+
+Ønsker du å bidra med et blogginnlegg, så er det bare å sende et git-pull request. Så lenge temaet er innenfor rimelighetens grenser og relevant for bloggens tema, så vil det bli lagt til.
 
 ## Build Setup
 
