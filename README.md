@@ -3,6 +3,7 @@
 > Bloggen til Jamstack.no og hjemmesiden til Jamstack Meetup-en
 
 ## Feature list
+* Remove local json and replace with API
 
 ## Bidrag
 

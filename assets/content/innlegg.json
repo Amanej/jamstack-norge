@@ -1,0 +1,12 @@
+[
+    {
+        "author": "Aman Mender",
+        "splash": "",
+        "slug": "hvordan-og-hvorfor-migrere-fra-wordpress",
+        "main": {
+            "tittel": "Hvordan og hvorfor migrere fra WordPress ?",
+            "shortDesc": "WordPress er idag en av verdens ledende plattformer for å lage blogger, nettsider og nettbutikker for både små og mellomstore bedrifter. Det gir dem ofte en utrolig kraft til å kunne utvide funksjonalitet, styre innhold og mye annet som ikke er lett å få til ellers. Men denne kraften og ikke minst bakgrunnen til WordPress gir også mange problemer slik som sikkerhet, vedlikehold og mye annet. I denne artikkelen ønsker jeg å utforske hvorfor og hvordan du kan migrere nettsider dere har idag fra WordPress til en jamstack side.",
+            "body": ""
+        }
+    }
+]
